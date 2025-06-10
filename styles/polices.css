@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Anakin Mono';
+    src:
+        url('../polices/anakinmono.woff2') format('woff2'),
+        url('../polices/anakinmono.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Episode 1';
+    src:
+        url('../polices/episode1.woff2') format('woff2'),
+        url('../polices/episode1.woff') format('woff');
+        font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy';
+    src:
+        url('../polices/SFDG.woff2') format('woff2'),
+        url('../polices/SFDG.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Light';
+    src:
+        url('../polices/universlight.woff2') format('woff2'),
+        url('../polices/universlight.woff') format('woff');
+    font-display: swap;
+}
